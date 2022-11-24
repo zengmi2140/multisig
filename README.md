@@ -346,7 +346,7 @@ Sparrow 会弹出一个窗口让您刚创建的这个钱包设置密码，该密
 
 ![verify-address.png](https://github.com/zengmi2140/multisig/blob/main/img/verify-address.png?raw=true)
 
-选择左侧的 “Address” 可以看到更多地址。
+选择左侧的 “Addresses” 可以看到更多地址。
 
 ![verify-address-all.png](https://github.com/zengmi2140/multisig/blob/main/img/verify-address-all.png?raw=true)
 
