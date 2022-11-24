@@ -195,6 +195,7 @@ Keystone 出厂默认为多币种固件，请切换为比特币单币种（BTC-O
 3. 三把私钥创建好后都要执行验证流程（创建钱包 > 抄下助记词 > 删除钱包 > 重新导入抄好的助记词 > 验证地址是否一致 > 完成验证），并做好备份，分开存放。
 
 > Keystone 验证流程：设置 > 恢复出厂设置，然后重新初始化钱包，通过助记词导入钱包
+> 
 > Coldcard 验证流程：Advanced > Danger Zone > Seed Functions > Destroy Seed，然后重新通过助记词导入钱包
 
 ![](https://github.com/zengmi2140/multisig/blob/main/img/generate-key.png?raw=true)
