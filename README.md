@@ -164,6 +164,7 @@ https://www.sparrowwallet.com/docs/quick-start.html
 
 #### 硬件签名器
 1.从**官网**购买硬件签名器：
+
 * Coldcard 官网： https://coldcard.com/
 * Keystone 官网： https://keyst.one/
 
@@ -174,10 +175,13 @@ Keystone 产品验证和初始化设置教程： https://support.keyst.one/v/tra
 Coldcard 产品验证和初始化设置教程： https://coldcard.com/docs/ultra-quick
 
 3.升级钱包到最新固件
+
 Coldcard 固件升级教程： https://coldcard.com/docs/upgrade
+
 固件验证教程： https://www.youtube.com/watch?v=RYcB5HpfcaE
 
 Keystone 出厂默认为多币种固件，请切换为比特币单币种（BTC-Only）固件，在[此处](https://keyst.one/firmware)下载固件，并按照此教程进行升级： https://support.keyst.one/v/traditional-chinese/kai-shi-shi-yong/ru-he-sheng-ji-gu-jian
+
 固件验证教程： https://support.keyst.one/v/traditional-chinese/kai-shi-shi-yong/ru-he-sheng-ji-gu-jian/ru-he-jian-cha-guan-wang-sheng-ji-bao-de-sha256sum
 
 ### 创建及备份多签钱包
