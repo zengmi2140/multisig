@@ -502,7 +502,7 @@ Keystone
 
 ### 致谢
 
-感谢 [@Ajian](https://twitter.com/AurtrianAjian) 为本文提出的改进建议，感谢 [@Lixin Liu](https://twitter.com/BitcoinLixin) 解答了我关于多签的诸多疑惑。
+感谢 [@Ajian](https://twitter.com/AurtrianAjian) 对本文提出的改进建议，感谢 [@Lixin Liu](https://twitter.com/BitcoinLixin) 解答了我关于多签的诸多疑惑。
 
 ## 扩展阅读
 1. [什么是多签钱包？](https://www.btcstudy.org/2021/10/18/what-is-multi-signature-wallet-and-recommend-choices/)
